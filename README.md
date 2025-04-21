@@ -6,6 +6,8 @@
 
 This project focuses on detecting fraudulent credit card transactions using a machine learning approach. The dataset used contains transaction details including anonymized features, and the goal was to classify whether a transaction is fraudulent (1) or not (0).
 
+Dataset used - https://www.kaggle.com/datasets/nelgiriyewithana/credit-card-fraud-detection-dataset-2023/data
+
 ### 🧠 What I Learned
 
 Throughout this project, I learned how to:
